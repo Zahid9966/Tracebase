@@ -1,0 +1,3 @@
+
+# local search indexes may embed real record values; never commit them
+*.duckdb
